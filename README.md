@@ -1,2 +1,2 @@
 # random-story-generator
- Running this code generates random stories using the words specified under the categories
+ running this code generates a random story using the words specified in the categories
